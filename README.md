@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>  <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/RStudio IDE-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leia04&layout=compact)](https://github.com/leia04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leia04&layout=compact&repo=Project&theme=dracula)](https://github.com/leia04/github-readme-stats)
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿

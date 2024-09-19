@@ -1,5 +1,8 @@
 ## Hi there 👋
+## Please check the 'Project' repository to explore the projects I've worked on 👀
 
+### ✨ Hyunseo Kim ✨
+<img src="https://img.shields.io/badge/GitHub-FFCA28?style=flat-square&logo=#181717&logoColor=white"/>
 <!--
 **leia04/leia04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

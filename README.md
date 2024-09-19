@@ -2,7 +2,10 @@
 ## Please check the 'Project' repository to explore the projects I've worked on 👀
 
 ### ✨ Hyunseo Kim ✨
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/leia04"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hyunseo-kim-2830bb2ba/"><img src="https://img.shields.io/badge/GitHub-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+### 👾 Languages 
 <!--
 **leia04/leia04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

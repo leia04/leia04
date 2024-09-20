@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  
 <img src="https://img.shields.io/badge/RStudio IDE-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white"/>
+
+
 
 <br><br>
 

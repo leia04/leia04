@@ -23,6 +23,7 @@ Data · Machine Learning · Real-World Applications
 <a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon/blob/main/demo/crawling_demo.gif">
   <img src="https://img.shields.io/badge/Demo-pink?style=flat">
 </a>
@@ -44,6 +45,7 @@ covering problem definition, solution design, and deployment.
 <a href="https://github.com/leia04/Car-Recall-Clustering">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/leia04/Car-Recall-Clustering/blob/main/reports/final_report.pdf">
   <img src="https://img.shields.io/badge/Report-yellow?style=flat">
 </a>

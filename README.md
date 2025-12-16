@@ -3,13 +3,23 @@
 ---
 <div align="center">
 
-### ✨ Hyunseo Kim ✨
+<h2 align="center">✨ Hyunseo Kim ✨</h2>
 <a href="https://github.com/leia04/Project"><img src="https://img.shields.io/badge/Project-FFCA28?style=round-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=round-square&logo=linkedin&logoColor=white"/></a>
-<!--<a href="https://github.com/leia04"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+      width="36"
+      height="36"
+      style="filter: invert(33%) sepia(96%) saturate(749%) hue-rotate(182deg) brightness(92%) contrast(101%);">
+  </a>
+</p>
 
-<h2 align="center">🚀 Projects</h2>
+<!--
+<a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=round-square&logo=linkedin&logoColor=white"/></a>
+-->!
+
+<h2 align="center">Projects</h2>
 <p align="center">
 Data · Machine Learning · Real-World Applications
 </p>

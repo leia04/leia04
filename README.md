@@ -9,6 +9,94 @@
 <!--<a href="https://github.com/leia04"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 -->
 
+<h2 align="center">🚀 Projects</h2>
+<p align="center">
+Data · Machine Learning · Real-World Applications
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>☕ Digital Transformation Project for Cafe Nogwon</h3>
+
+<a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+</a>
+<a href="YOUR_DEMO_LINK_HERE">
+  <img src="https://img.shields.io/badge/Demo-pink?style=flat">
+</a>
+
+<br><br>
+<b>Focus:</b> End-to-End Digital Transformation <br>
+<b>Tech:</b> Python, SQL <br>
+<b>Libraries:</b> Selenium, BeautifulSoup  
+
+Designed and implemented a practical digital workflow for a real-world cafe,
+covering problem definition, solution design, and deployment.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚗 Car Recall Clustering</h3>
+
+<a href="https://github.com/leia04/Car-Recall-Clustering">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+</a>
+<a href="YOUR_REPORT_LINK_HERE">
+  <img src="https://img.shields.io/badge/Report-yellow?style=flat">
+</a>
+
+<br><br>
+<b>Focus:</b> Unsupervised Learning <br>
+<b>Tech:</b> Python <br>
+<b>Libraries:</b> scikit-learn, pandas, numpy  
+
+Applied clustering algorithms to car recall data to identify latent patterns
+and group similar recall cases through exploratory analysis and evaluation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 Image Deblurring with U-Net and GAN</h3>
+
+<a href="https://github.com/leia04/Image-Deblurring-with-U-Net-and-GAN">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+</a>
+
+<br><br>
+<b>Focus:</b> Deep Learning <br>
+<b>Tech:</b> Python <br>
+<b>Libraries:</b> TensorFlow, Keras, scikit-image 
+
+Built an image deblurring pipeline using U-Net and GAN architectures
+with qualitative and quantitative performance evaluation.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌍 Hackathon for Solving Social Issues</h3>
+
+<a href="https://github.com/leia04/Hackathon-for-Solving-Social-Issues">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+</a>
+
+<br><br>
+<b>Focus:</b> Rapid Prototyping & Collaboration <br>
+<b>Tech:</b> Python <br>
+<b>Libraries:</b> geopandas, osmnx, folium  
+
+Developed a working prototype during a hackathon to address a real social issue
+under tight time and resource constraints.
+
+</td>
+</tr>
+</table>
 
 
 

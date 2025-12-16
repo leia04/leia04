@@ -110,13 +110,12 @@ focusing on rapid prototyping and team collaboration.
 </table>
 
 
-
-### 👾 Languages 👾
+<h2 align="center">Languages</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 
-### 🛠️ Tools 🛠️
+<h2 align="center">Tools</h2>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  

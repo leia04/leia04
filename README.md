@@ -23,7 +23,7 @@ Data · Machine Learning · Real-World Applications
 <a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
-<a href="[YOUR_DEMO_LINK_HERE](https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon/blob/main/demo/crawling_demo.gif)">
+<a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon/blob/main/demo/crawling_demo.gif">
   <img src="https://img.shields.io/badge/Demo-pink?style=flat">
 </a>
 

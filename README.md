@@ -30,7 +30,7 @@ Data · Machine Learning · Real-World Applications
 <br><br>
 <b>Focus:</b> End-to-End Digital Transformation <br>
 <b>Tech:</b> Python, SQL <br>
-<b>Libraries:</b> Selenium, BeautifulSoup  
+<b>Libraries:</b> Selenium, BeautifulSoup, pandas
 
 Designed and implemented a practical digital workflow for a real-world cafe,
 covering problem definition, solution design, and deployment.
@@ -73,8 +73,9 @@ and group similar recall cases through exploratory analysis and evaluation.
 <b>Tech:</b> Python <br>
 <b>Libraries:</b> TensorFlow, Keras, scikit-image 
 
-Built an image deblurring pipeline using U-Net and GAN architectures
-with qualitative and quantitative performance evaluation.
+Built an image deblurring pipeline using U-Net and GAN architectures,
+and compared model performance using qualitative and quantitative metrics.
+
 
 </td>
 
@@ -91,8 +92,9 @@ with qualitative and quantitative performance evaluation.
 <b>Tech:</b> Python <br>
 <b>Libraries:</b> geopandas, osmnx, folium  
 
-Developed a working prototype during a hackathon to address a real social issue
-under tight time and resource constraints.
+Developed a working prototype during a 4-week hackathon-style project,
+focusing on rapid prototyping and team collaboration.
+
 
 </td>
 </tr>

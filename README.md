@@ -14,7 +14,7 @@
 
 <!--
 <a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=round-square&logo=linkedin&logoColor=white"/></a>
--->!
+-->
 
 <h2 align="center">Projects</h2>
 <p align="center">

@@ -6,10 +6,10 @@
 <h2 align="center">✨ Hyunseo Kim ✨</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://github.com/leia04/leia04/blob/main/etc/linkedin-svgrepo-com.svg"
+         width="40" height="40" alt="LinkedIn">
   </a>
 </p>
-
 
 
 <!--

@@ -1,5 +1,5 @@
 # Hi there 👋
-## Please check the 'Project' repository to explore the projects I've worked on 👀
+## Please check the repository to explore the projects I've worked on 👀
 ---
 <div align="center">
 

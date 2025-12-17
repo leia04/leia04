@@ -108,14 +108,19 @@ focusing on rapid prototyping and team collaboration.
 </td>
 </tr>
 </table>
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 
-<h2 align="center">Languages</h2>
+<p align="center">
+
+<h3 align="center">Languages</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 
-<h2 align="center">Tools</h2>
+<h3 align="center">Tools</h3>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  

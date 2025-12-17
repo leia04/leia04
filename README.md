@@ -1,16 +1,7 @@
-# Hi there 👋
-## Please check the repository to explore the projects I've worked on 👀
+
+<h1 align="center"><b>Hi , I'm Hyunseo Kim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ---
-<div align="center">
-
-<h2 align="center">✨ Hyunseo Kim ✨</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/">
-    <img src="https://github.com/leia04/leia04/blob/main/etc/linkedin-svgrepo-com.svg"
-         width="40" height="40" alt="LinkedIn">
-  </a>
-</p>
-
 
 <!--
 <a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=round-square&logo=linkedin&logoColor=white"/></a>
@@ -110,31 +101,47 @@ focusing on rapid prototyping and team collaboration.
 </table>
 <br>
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leia04&layout=compact" />
+<br>
+
+
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-
 <p align="center">
 
-<h3 align="center">Languages</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<li>
+  <h3>Languages:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  </p>
+  <br>
+</li>
 
-<h3 align="center">Tools</h3>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  
-<img src="https://img.shields.io/badge/RStudio IDE-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white"/>
+<li>
+  <h3>Tools:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RStudio%20IDE-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white"/>
+  </p>
+</li>
+<br>
 
-
-
-<br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leia04&layout=compact&repo=Project&theme=gruvbox)](https://github.com/leia04/github-readme-stats)
-
-</div>
+<h2>Connect with me:</h2>
+ <a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/">
+  <img src="https://github.com/leia04/leia04/blob/main/etc/linkedin-svgrepo-com.svg"
+        width="40" height="40" alt="LinkedIn">
+  </a>
+</p>
 
 <!--
 

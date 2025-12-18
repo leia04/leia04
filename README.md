@@ -143,7 +143,7 @@ focusing on rapid prototyping and team collaboration.
 <br>
 
 <h2>Connect with me:</h2>
- <a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/">
+ <a href="https://www.linkedin.com/in/leia--kim/">
   <img src="https://github.com/leia04/leia04/blob/main/etc/linkedin-svgrepo-com.svg"
         width="40" height="40" alt="LinkedIn">
   </a>

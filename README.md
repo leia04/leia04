@@ -103,12 +103,14 @@ focusing on rapid prototyping and team collaboration.
 </td>
 </tr>
 </table>
+
+
 <br>
-
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leia04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 <br>
+--!>
 
 
 

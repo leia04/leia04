@@ -85,9 +85,9 @@ and compared model performance using qualitative and quantitative metrics.
 
 <td width="50%" valign="top">
 
-<h3>🌍 Hackathon for Solving Social Issues</h3>
+<h3>🌍 Optimal Site Selection for Public Housing (15-Minute Walkable City) </h3>
 
-<a href="https://github.com/leia04/Hackathon-for-Solving-Social-Issues">
+<a href="https://github.com/leia04/Optimal-Site-Selection-for-Public-Housing-(15-Minute Walkable City)">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
 

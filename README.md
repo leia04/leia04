@@ -5,7 +5,7 @@
 
 <h1 align="center"><b>Hi , I'm Hyunseo Kim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  Master’s student in Applied Data Science at USC with hands-on experience in data governance at KakaoPay, applying Python, SQL, and R to solve real-world business and data challenges.
+  Master’s student in Applied Data Science at USC with hands-on experience as a data science intern at KakaoPay (South Korea’s leading FinTech platform with 80%+ market penetration), applying Python, SQL, and R to solve real-world business and data challenges.
 </p>
 
 ---

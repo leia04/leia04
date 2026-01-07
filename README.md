@@ -44,7 +44,7 @@ covering problem definition, solution design, and deployment.
 
 <h3>🚗 Vehicle Recall Severity Clustering & Analysis </h3>
 
-<a href="https://github.com/leia04/Vehicle-Recall-Severity-Clustering-&-Analysis">
+<a href="https://github.com/leia04/Vehicle-Recall-Severity-Clustering-Analysis">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
 &nbsp;&nbsp;

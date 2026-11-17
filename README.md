@@ -38,7 +38,7 @@
 <h3>🎵 Music Streaming Analytics</h3>
 
 <a href="https://github.com/leia04/music-streaming-analytics">
-  <img src="etc/music-analytics.png" width="100%" alt="Music Streaming Analytics Preview"/>
+  <img src="etc/music-analytics2.png" width="100%" alt="Music Streaming Analytics Preview"/>
 </a>
 
 <br>
@@ -66,7 +66,7 @@ data quality validation.
 <h3>💰 AI-Powered FX Monitoring & Alert System</h3>
 
 <a href="https://github.com/leia04/fx-alert">
-  <img src="etc/fx-monitoring.png" width="100%" alt="FX Monitoring Preview"/>
+  <img src="etc/fx-monitoring2.png" width="100%" alt="FX Monitoring Preview"/>
 </a>
 
 <br>
@@ -92,7 +92,7 @@ explanations of exchange rate movements.
 <h3>☕ Digital Transformation for Cafe Nogwon</h3>
 
 <a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
-  <img src="etc/cafe-nogwon.png" width="100%" alt="Cafe Nogwon Preview"/>
+  <img src="etc/cafe-nogwon2.png" width="100%" alt="Cafe Nogwon Preview"/>
 </a>
 
 <br>
@@ -116,7 +116,7 @@ processing and analysis time by ~80%</b>.
 <h3>🌍 15-Minute City: Public Housing Site Selection</h3>
 
 <a href="https://github.com/leia04/15-Minute-City-Optimal-Site-Selection-for-Public-Housing">
-  <img src="etc/15-minute-city.png" width="100%" alt="15-Minute City Preview"/>
+  <img src="etc/15-minute-city2.png" width="100%" alt="15-Minute City Preview"/>
 </a>
 
 <br>

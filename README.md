@@ -3,165 +3,196 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center"><b>Hi , I'm Hyunseo Kim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Hyunseo (Leia) Kim 👋
+</h1>
+
 <p align="center">
-  Master’s student in Applied Data Science at USC with hands-on experience as a data science intern at KakaoPay (South Korea’s leading FinTech platform with 80%+ market penetration), applying Python, SQL, and R to solve real-world business and data challenges.
+  <b>Data Engineering · Analytics Engineering · Applied Data Science</b>
+</p>
+
+<p align="center">
+  M.S. in Applied Data Science at the University of Southern California (USC), Class of 2027.
+  <br>
+  Previously worked at <b>KakaoPay</b> and <b>Warner Music Group</b>,
+  with experience in data governance, analytics, and workflow automation.
+  <br>
+  Passionate about building reliable data pipelines and
+  transforming complex data into actionable business insights.
 </p>
 
 ---
 
-<!--
-<a href="https://www.linkedin.com/in/leia-kim-2830bb2ba/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=round-square&logo=linkedin&logoColor=white"/></a>
--->
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Featured Projects</h2>
+
 <p align="center">
-Data · Machine Learning · Real-World Applications
+  Data Engineering · Analytics · Automation · Machine Learning
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>☕ Digital Transformation Project for Cafe Nogwon</h3>
+<h3>🎵 Music Streaming Analytics</h3>
 
-<a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+<a href="https://github.com/leia04/music-streaming-analytics">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+</a>
+<a href="https://public.tableau.com/app/profile/hyunseo.kim6827/viz/MusicListeningAnalyticsDataQuality/Dashboard1">
+  <img src="https://img.shields.io/badge/Tableau_Dashboard-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
 </a>
 
-
 <br><br>
-<b>Focus:</b> End-to-End Digital Transformation <br>
-<b>Tech:</b> Python, SQL <br>
-<b>Libraries:</b> Selenium, BeautifulSoup, pandas
 
-Designed and implemented a practical digital workflow for a real-world cafe,
-covering problem definition, solution design, and deployment.
+<b>Tech:</b> Python, SQL, PostgreSQL, dbt, Tableau
+
+<p>
+Transformed <b>21M+ raw music listening events</b>
+into structured, analytics-ready datasets,
+enabling reliable streaming performance analysis
+and business reporting with data quality validation.
+</p>
+
 
 </td>
 
 <td width="50%" valign="top">
+   
 
-<h3>🚗 Vehicle Recall Severity Clustering & Analysis </h3>
+<h3>💰 AI-Powered FX Monitoring & Alert System</h3>
 
-<a href="https://github.com/leia04/Vehicle-Recall-Severity-Clustering-Analysis">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/leia04/Car-Recall-Clustering/blob/main/reports/final_report.pdf">
-  <img src="https://img.shields.io/badge/Report-yellow?style=flat">
+<a href="https://github.com/leia04/fx-alert">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
 </a>
 
 <br><br>
-<b>Focus:</b> Unsupervised Learning <br>
-<b>Tech:</b> Python <br>
-<b>Libraries:</b> scikit-learn, pandas, numpy  
+<b>Tech:</b> Python, REST APIs, GitHub Actions, Claude API
 
-Applied clustering algorithms to car recall data to identify latent patterns
-and group similar recall cases through exploratory analysis and evaluation.
+<p>
+Eliminated manual exchange rate monitoring through
+<b>automated, duplicate-resistant alerts</b>,
+providing timely FX updates alongside AI-generated,
+source-backed explanations of currency movements.
+</p>
 
 </td>
+
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 Image Deblurring with U-Net and GAN</h3>
+<h3>☕ Digital Transformation for Cafe Nogwon</h3>
 
-<a href="https://github.com/leia04/Image-Deblurring-with-U-Net-and-GAN">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+<a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
 </a>
 
 <br><br>
-<b>Focus:</b> Deep Learning <br>
-<b>Tech:</b> Python <br>
-<b>Libraries:</b> TensorFlow, Keras, scikit-image 
+<b>Tech:</b> Python, SQL, Selenium, BeautifulSoup, pandas
 
-Built an image deblurring pipeline using U-Net and GAN architectures,
-and compared model performance using qualitative and quantitative metrics.
+<p>
+Streamlined manual data collection and aggregation
+for a real-world cafe, <b>reducing end-to-end
+data processing and analysis time by ~80%</b>
+through workflow automation.
+</p>
+
 
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🌍 15-Minute City: Optimal Site Selection for Public Housing </h3>
+<h3>🌍 15-Minute City: Public Housing Site Selection</h3>
 
 <a href="https://github.com/leia04/15-Minute-City-Optimal-Site-Selection-for-Public-Housing">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
 </a>
 
 <br><br>
-<b>Focus:</b> Rapid Prototyping & Collaboration <br>
-<b>Tech:</b> Python <br>
-<b>Libraries:</b> geopandas, osmnx, folium  
+<b>Tech:</b> Python, GeoPandas, OSMnx, Folium
 
-Developed a working prototype during a 4-week hackathon-style project,
-focusing on rapid prototyping and team collaboration.
+<p>
+Addressed the challenge of identifying accessible
+public housing locations by developing a
+<b>geospatial decision-support prototype</b>
+to evaluate candidate sites based on proximity
+to essential services and urban infrastructure.
+</p>
 
 
 </td>
 </tr>
 </table>
 
-
 <br>
-<!--
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leia04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<br>
---!>
 
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h2 align="center">
+   <b>🛠️ Technical Skills</b>
+</h2>
+
 <p align="center">
+  <b>Languages</b>
+</p>
 
-<li>
-  <h3>Languages:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  </p>
-  <br>
-</li>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+</p>
 
-<li>
-  <h3>Tools:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RStudio%20IDE-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>
-    <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white"/>
-  </p>
-</li>
-<br>
+<p align="center">
+  <b>Data Engineering & Databases</b>
+</p>
 
-<h2>Connect with me:</h2>
- <a href="https://www.linkedin.com/in/leia--kim/">
-  <img src="https://github.com/leia04/leia04/blob/main/etc/linkedin-svgrepo-com.svg"
-        width="40" height="40" alt="LinkedIn">
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Machine Learning & Analytics</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Developer Tools</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+
+
+---
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leia--kim/">
+     <img src="etc/linkedin-svgrepo-com.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
-<!--
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
-
-**leia04/leia04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>

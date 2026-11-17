@@ -24,6 +24,7 @@
 ---
 
 
+
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
@@ -37,47 +38,52 @@
 <h3>🎵 Music Streaming Analytics</h3>
 
 <a href="https://github.com/leia04/music-streaming-analytics">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+  <img src="etc/music-analytics.png" width="100%" alt="Music Streaming Analytics Preview"/>
+</a>
+
+<br>
+
+<a href="https://github.com/leia04/music-streaming-analytics">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
 </a>
 <a href="https://public.tableau.com/app/profile/hyunseo.kim6827/viz/MusicListeningAnalyticsDataQuality/Dashboard1">
-  <img src="https://img.shields.io/badge/Tableau_Dashboard-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Tableau_Dashboard-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
 </a>
 
-<br><br>
-
-<b>Tech:</b> Python, SQL, PostgreSQL, dbt, Tableau
+<p><b>Tech:</b> Python, SQL, PostgreSQL, dbt, Tableau</p>
 
 <p>
-Transformed <b>21M+ raw music listening events</b>
-into structured, analytics-ready datasets,
-enabling reliable streaming performance analysis
-and business reporting with data quality validation.
+Transformed <b>21M+ raw music listening events</b> into
+analytics-ready datasets, enabling reliable streaming
+performance analysis and business reporting with
+data quality validation.
 </p>
-
 
 </td>
 
 <td width="50%" valign="top">
-   
 
 <h3>💰 AI-Powered FX Monitoring & Alert System</h3>
 
 <a href="https://github.com/leia04/fx-alert">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+  <img src="etc/fx-monitoring.png" width="100%" alt="FX Monitoring Preview"/>
 </a>
 
-<br><br>
-<b>Tech:</b> Python, REST APIs, GitHub Actions, Claude API
+<br>
+
+<a href="https://github.com/leia04/fx-alert">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
+</a>
+
+<p><b>Tech:</b> Python, REST APIs, GitHub Actions, Claude API</p>
 
 <p>
-Eliminated manual exchange rate monitoring through
-<b>automated, duplicate-resistant alerts</b>,
-providing timely FX updates alongside AI-generated,
-source-backed explanations of currency movements.
+Automated USD/KRW monitoring with <b>duplicate-resistant
+alerts</b>, API fallback, and AI-generated, source-backed
+explanations of exchange rate movements.
 </p>
 
 </td>
-
 </tr>
 
 <tr>
@@ -86,20 +92,22 @@ source-backed explanations of currency movements.
 <h3>☕ Digital Transformation for Cafe Nogwon</h3>
 
 <a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+  <img src="etc/cafe-nogwon.png" width="100%" alt="Cafe Nogwon Preview"/>
 </a>
 
-<br><br>
-<b>Tech:</b> Python, SQL, Selenium, BeautifulSoup, pandas
+<br>
+
+<a href="https://github.com/leia04/Digital-Transformation-Project-for-Cafe-Nogwon">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
+</a>
+
+<p><b>Tech:</b> Python, SQL, Selenium, BeautifulSoup, pandas</p>
 
 <p>
-Streamlined manual data collection and aggregation
+Automated data collection, processing, and analysis
 for a real-world cafe, <b>reducing end-to-end
-data processing and analysis time by ~80%</b>
-through workflow automation.
+processing and analysis time by ~80%</b>.
 </p>
-
-
 
 </td>
 
@@ -108,20 +116,22 @@ through workflow automation.
 <h3>🌍 15-Minute City: Public Housing Site Selection</h3>
 
 <a href="https://github.com/leia04/15-Minute-City-Optimal-Site-Selection-for-Public-Housing">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+  <img src="etc/15-minute-city.png" width="100%" alt="15-Minute City Preview"/>
 </a>
 
-<br><br>
-<b>Tech:</b> Python, GeoPandas, OSMnx, Folium
+<br>
+
+<a href="https://github.com/leia04/15-Minute-City-Optimal-Site-Selection-for-Public-Housing">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
+</a>
+
+<p><b>Tech:</b> Python, GeoPandas, OSMnx, Folium</p>
 
 <p>
-Addressed the challenge of identifying accessible
-public housing locations by developing a
-<b>geospatial decision-support prototype</b>
-to evaluate candidate sites based on proximity
-to essential services and urban infrastructure.
+Developed a <b>geospatial decision-support prototype</b>
+to evaluate public housing candidate sites based on
+accessibility to essential services and urban infrastructure.
 </p>
-
 
 </td>
 </tr>
